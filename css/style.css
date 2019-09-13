@@ -1,0 +1,36 @@
+
+/*Cb Display Popular Widget post CSS Start*/
+.cb-display-popular-post-area{}
+.cb-single-display-popular-post{
+	margin-bottom: 30px;
+	overflow: hidden;
+}
+.cb-display-popular-title{
+    margin-bottom: 15px;
+}
+.cb-display-popular-title h2{
+    font-size: 17px !important;
+    margin: 0;
+    text-transform: capitalize;
+    font-weight: 500;
+    line-height: 28px;
+}
+.cb-display-popular-title h2 a{
+    text-decoration: none;
+}
+.cb-display-popular-thumbnil{}
+.cb-display-popular-thumbnil a{}
+.cb-display-popular-thumbnil a img {
+    width: 100%;
+    display: block;
+}
+.cb-display-popular-content{
+    margin-top: 20px;
+}
+.cb-display-popular-content p{
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: 400;
+    text-align: justify;
+}
+/*Display Popular Widget post CSS End*/
